@@ -1,1 +1,1 @@
-# DatabaseStructureTests
+# Spring Example
